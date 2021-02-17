@@ -8,4 +8,4 @@ Here's the link to my account : https://www.kaggle.com/thomashoulier
 
 ### Titanic: Machine Learning from Disaster : https://www.kaggle.com/thomashoulier/titanic
 - Learning data science fundamentals : data analysis, creating features, using different models (Logistic Regression, Random Forest ...)
-- Get familiar with Pandas and Scykit learn libraries
+- Get familiar with Pandas and Scikit learn libraries
