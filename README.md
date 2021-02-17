@@ -6,6 +6,6 @@ Here's the link to my account : https://www.kaggle.com/thomashoulier
 
 ## My projects
 
-### Titanic: Machine Learning from Disaster : https://www.kaggle.com/thomashoulier/titanic
+### Titanic: Machine Learning from Disaster : https://www.kaggle.com/c/titanic
 - Learning data science fundamentals : data analysis, creating features, using different models (Logistic Regression, Random Forest ...)
 - Get familiar with Pandas and Scikit learn libraries
